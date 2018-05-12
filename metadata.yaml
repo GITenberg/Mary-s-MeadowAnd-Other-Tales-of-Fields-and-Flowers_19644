@@ -1,0 +1,34 @@
+_repo: Mary-s-MeadowAnd-Other-Tales-of-Fields-and-Flowers_19644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J.H.
+    - Ewing, J. H. (Juliana Horatia)
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcsh 'Gardening -- Juvenile literature'
+tableOfContents: Mary's Meadow -- Letters from a little garden -- Garden lore -- Sunflowers
+  and a rushlight -- Dandelion clocks -- The Trinity Flower -- Ladders to Heaven.
+title: Mary's Meadow, and Other Tales of Fields and Flowers
+url: http://www.gutenberg.org/ebooks/19644
